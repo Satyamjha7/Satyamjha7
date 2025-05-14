@@ -3,7 +3,6 @@
 ## 🚀 About Me
 
 🎓 3rd Year B.Tech CSE Student  
-🏆 10+ National-Level Hackathons | 🥇 CodeFusion Winner | 🔢 Cipherthon 4th All-India  
 💼 Web Developer | UI/UX Designer | Embedded & IoT Enthusiast  
 🌱 Currently diving deep into **Cloud Computing** and **Distributed Systems**  
 🧠 Also exploring **AI Ethics**, **Security Architectures**, and **Smart Contracts**
@@ -41,13 +40,6 @@
 </p>
 
 ---
-
-## 🏆 Achievements
-
-- 🥇 **Winner** – CodeFusion by Hactech Community  
-- 🥈 **All India 4th** – Cipherthon by Cipher Schools  
-- 🥉 **All India 8th** – Hack-o-Octo by GDSC Chandigarh University  
-- 🤖 Participated in **Maze Solving & Line Follower Robot Competition** (2023)
 
 ---
 

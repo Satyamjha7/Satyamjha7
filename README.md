@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 3rd Year B.Tech CSE Student  
+🎓 Final Year B.Tech CSE Student  
 💼 Web Developer | UI/UX Designer | Embedded & IoT Enthusiast  
 🌱 Currently diving deep into **Cloud Computing** and **Distributed Systems**  
 🧠 Also exploring **AI Ethics**, **Security Architectures**, and **Smart Contracts**

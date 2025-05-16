@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Satyam! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+# 👋 Hey folks, I'm Satyam! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 ## 🚀 About Me
 

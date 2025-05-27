@@ -45,9 +45,9 @@
 
 ## 💬 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyamofficial)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/imsatyamjha07)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:imsatyam7official@gmail.com)
 
 ---
 
